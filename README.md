@@ -2,7 +2,7 @@
 **Theme: Create & Implement your Solution**  
 
 ## 📚 Overview  
-This repository is part of the **Learning Challenge Series** by the **Apple Developer Academy @Binus**. The case study leverage the **Challenge-Based Learning (CBL)** framework to encourage innovative thinking and practical problem-solving.  
+This repository is part of the **Learning Challenge Series** by the **Apple Developer Academy @Binus**. The case study leverages the **Challenge-Based Learning (CBL)** framework to encourage innovative thinking and practical problem-solving.  
 
 The theme, **"Create & Implement your Solution,"** highlights the focus on creativity, innovation, and actionable outcomes in addressing real-world challenges.  
 
