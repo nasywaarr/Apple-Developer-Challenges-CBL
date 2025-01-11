@@ -1,4 +1,4 @@
-# Apple Developer Challenges - Case Studies  
+# Apple Developer Challenges - Case Study  
 **Theme: Create & Implement your Solution**  
 
 ## 📚 Overview  
