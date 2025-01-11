@@ -19,11 +19,12 @@ To explore and document innovative solutions through case studies while applying
    This theme emphasizes actionable ideas and transformative results, aligning with the principles of CBL.  
 
 ## 🗂️ Repository Structure  
+```
 Apple-Developer-Challenges-CBL/
 │
 ├── images/                   # Pictures from the case studies
 └── README.md                 # Repository documentation (this file)
-
+```
 
 ## 📸 Pictures  
 Visual documentation of the challenges and solutions can be found in the /images directory.  
