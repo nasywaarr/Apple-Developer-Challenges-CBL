@@ -18,7 +18,7 @@ To explore and document innovative solutions through case studies while applying
 2. **Theme: Create & Implement your Solution**  
    This theme emphasizes actionable ideas and transformative results, aligning with the principles of CBL.
 
-3. **Solution Using Apple Vision Pro**
+3. **Solution Using Apple Vision Pro**  
    The solution developed in this case study incorporates the **Apple Vision Pro**, showcasing the application of cutting-edge technology to address real-world challenges.
 
 ## 🗂️ Repository Structure  
