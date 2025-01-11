@@ -27,4 +27,4 @@ Apple-Developer-Challenges-CBL/
 ```
 
 ## 📸 Pictures  
-Visual documentation of the challenges and solutions can be found in the /images directory.  
+Visual documentation of the challenge and solution can be found in the `/images` directory. 
